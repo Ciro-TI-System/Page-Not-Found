@@ -13,7 +13,7 @@ Desenvolvimento de uma página de erro 404 (página não encontrada), com anima�
 <br>
 
 <p align="center">
-  <img src=".github/Error Page.jpeg" width="100%">
+  <img src=".github/Error Page.jpeg" width="50%">
 </p>
 
 <br>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## DEMO
 
-https://github.com/
+https://github.com/Ciro-TI-System/Page-Not-Found/assets/78507494/4ca46bba-e82a-469d-9931-22f081fae7a5
 
 ## 🔖 Layout
 
