@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - Figma
 - Javascript
-- [Lottie Files](https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js)
+- Lottie Files
 
 <br>
 
